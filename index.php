@@ -21,6 +21,13 @@
 
          echo $variable1 + $variable2;
 
+         //Operators in php
+         // Arthematic Operator
+         Echo $variable1 + variable2 ;
+
+         Echo $variable1 - variable2 ;
+
+
     ?>
     </div>
 </body>
