@@ -31,6 +31,8 @@
           
          echo $variable1 * $variable2;
         
+         echo $variable1 * $variable2;
+        
         //Logical Operators
 
 
